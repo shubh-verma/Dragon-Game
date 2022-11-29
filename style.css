@@ -13,7 +13,8 @@
     background: #4d79bc;
     min-width: 100;
     min-height: 100;
+    font-family: 'Bangers', cursive;
 }
-#layer1, #layer2, #layer3, #layer4, #player, #angler1, #angler2, #lucky{
+#layer1, #layer2, #layer3, #layer4, #player, #angler1, #angler2, #lucky, #projectile, #gears, #hivewhale, #drone{
     display: none;
 }
